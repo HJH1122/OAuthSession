@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OauthsessionApplication<oauthsession>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.oauthsession.OauthsessionApplication",
+            "projectName": "oauthsession",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
